@@ -10,4 +10,4 @@ I'm Ibra, a computer science student at OPIT. I love coding, developing video ga
 I usually just build whatever I like, so feel free to look around.  
 Feedback is always welcome and don't hesitate to contact me via email or on Discord: **ibraig**
 
-![dr manhattan](manhattan_1-Photoroom.png)
+![dr manhattan](manhattan_bg.png)
