@@ -4,7 +4,6 @@ I'm Ibra, a computer science student at OPIT. I love coding, developing video ga
 ## My stack:
   - C++ (currently learning)
   - Python
-  - JavaScript
   - GDScript
 
 I usually just build whatever I like, so feel free to look around.  
